@@ -1,0 +1,19 @@
+module router-interface {
+    namespace "urn:example:router-interface";
+    prefix ri;
+
+    container interfaces {
+        list interface {
+            key "name";
+            leaf name {
+                type string;
+            }
+            leaf description {
+                type string;
+            }
+            leaf ip {
+                type string;
+            }
+        }
+    }
+}

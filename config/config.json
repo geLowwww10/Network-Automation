@@ -1,0 +1,9 @@
+{
+    "router_ip": "192.168.134.130",
+    "username": "cisco",
+    "password": "cisco123!",
+    "interface_name": "GigabitEthernet1",
+    "description": "Updated by L1 SE",
+    "webex_token": "Nzc1OTgwZmQtMTY4ZS00OWMwLWI0ZmEtYWY0MTg5NmRmMGFlYzJiMGFmYWItYjIz_P0A1_1ad92174-dfe2-4740-b008-57218895946c",
+    "room_id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMjI2ZGVlNDAtYmEwNC0xMWVmLWE5YmUtNDc2ZjZkMTFhOTU2"
+}
